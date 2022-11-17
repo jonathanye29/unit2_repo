@@ -10,8 +10,8 @@ def numberMatches(l:int, s:int):
     return out
 ```
 
-![]()
+![](quiz018.jpg)
 
 ## Flow Chart
 
-![]()
+![](quiz018truthtable.jpg)
