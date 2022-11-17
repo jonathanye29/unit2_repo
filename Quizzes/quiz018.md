@@ -12,6 +12,6 @@ def numberMatches(l:int, s:int):
 
 ![](quiz018.jpg)
 
-## Flow Chart
+## Truth Table
 
 ![](quiz018truthtable.jpg)
