@@ -33,7 +33,7 @@ def get_l3tt3r2(msg:str):
     return out
 ```
 
-![](qui019.jpg)
+![](quiz019.jpg)
 
 
 ## Boolean Circuit
