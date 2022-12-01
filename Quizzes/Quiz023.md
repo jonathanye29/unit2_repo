@@ -32,4 +32,8 @@ plt.show()
 
 ![](quiz023.jpg)
 
+## Truth Table
+
+![](quiz023truthtable.jpg)
+
 
