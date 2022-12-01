@@ -23,3 +23,8 @@ plt.show()
 ```
 
 ![](quiz024.jpg)
+
+
+## Circuit
+
+![](quiz024circuit.jpg)
