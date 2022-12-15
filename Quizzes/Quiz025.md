@@ -23,5 +23,6 @@ plt.xlabel("x")
 plt.ylabel("$y = |x|$")
 plt.show()
 ```
+![](quiz025.jpg)
 
-<img width="1512" alt="Screen Shot 2022-12-15 at 9 21 35 AM" src="https://user-images.githubusercontent.com/111751273/207743508-3d18ba21-8338-4191-babe-9e2c4e235e3a.png">
+
