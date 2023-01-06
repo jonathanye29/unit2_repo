@@ -25,4 +25,12 @@ plt.show()
 ```
 ![](quiz025.jpg)
 
+## Part B
+
+Convert to decimal: FFA5
+
+$(15x15^3)+(15x15^2)+(15x10^1)+(15x5^0)=65445$
+
+
+
 
