@@ -33,3 +33,11 @@ plt.show()
 ```
 
 ![](quiz026.jpg)
+
+## Part B
+
+Convert the following color in hex to rgb: #e6e627
+$(
+R:
+G:
+B:
