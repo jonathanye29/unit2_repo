@@ -37,4 +37,4 @@ plt.show()
 ## Part B
 
 Convert the following color in hex to rgb: #e6e627
-R:250 G:100 B:10
+R:230 G:230 B:39
