@@ -29,3 +29,10 @@ plt.show()
 
 ![](quiz030.jpg)
 
+## Part B
+### When was the internet first created?
+January 1, 1983 is considered the official birthday of the Internet.
+
+Citation: https://www.usg.edu/galileo/skills/unit07/internet07_02.phtml#:~:text=January%201%2C%201983%20is%20considered,Protocol%20(TCP%2FIP).
+
+
