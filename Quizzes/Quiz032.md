@@ -66,3 +66,11 @@ plt.show()
 ```
 
 ![](quiz032.jpg)
+
+
+## Part B
+### What are the three main operators used in boolean logic?
+
+The three main operators used in boolean logic are AND, OR, and NOT.
+
+Citation: https://libguides.mit.edu/c.php?g=175963&p=1158594
