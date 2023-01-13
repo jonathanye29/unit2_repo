@@ -25,3 +25,5 @@ plt.show()
 
 ![](quiz028.jpg)
 
+## Part B
+Convert the following rgb color to hex color (red=10, green=255, blue=255): #0AFFFF
